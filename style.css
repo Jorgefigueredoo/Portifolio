@@ -1,0 +1,25 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo e fundo */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #F1F3F5; /* fundo suave */
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #6A4CFF; /* Azul roxo vibrante */
+    color: white;
+    padding: 20px 0;
+}
+
+header nav ul {
+    list-style: none;
+    text-align: cent
